@@ -38,3 +38,11 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+
+
+# SQL-lite DB
+
+
+db.sqlite
+test.sqlite
